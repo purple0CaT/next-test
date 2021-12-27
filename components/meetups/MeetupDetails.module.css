@@ -1,0 +1,10 @@
+.detailsWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-items: center;
+}
+.detailsWrapper img {
+  width: 100%;
+  object-fit: cover;
+}
